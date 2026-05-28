@@ -1,5 +1,5 @@
   CalculatorApp
-  This code is for a basic calculator application created using Javaís Swing framework. The app includes a 
+  This code is for a basic calculator application created using Java‚Äôs Swing framework. The app includes a 
   graphical user interface (GUI) with buttons for digits and operations. The user interacts with these buttons to 
   perform calculations.
 
@@ -16,7 +16,7 @@
 
   3.	Radio Button:
   onRadioButton and offRadioButton control the enabling/disabling of all buttons. When the calculator is 
-  turned ìoff,î all buttons are disabled, and when itís turned ìon,î the buttons are enabled.
+  turned ‚Äúoff,‚Äù all buttons are disabled, and when it‚Äôs turned ‚Äúon,‚Äù the buttons are enabled.
 
   4.	Operations: Number buttons (0-9) append digits to the text field.
   The buttonClear clears the display.
@@ -38,4 +38,4 @@
 	
 
 
-  -U23MTE1065 Ayomide John.
+ Ayomide John.
